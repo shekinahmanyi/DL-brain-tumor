@@ -1,0 +1,6 @@
+# Exclude the massive dataset images and labels
+datasets/
+
+# Exclude virtual environments
+.ipynb_checkpoints/
+__pycache__/
